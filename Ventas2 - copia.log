@@ -1,0 +1,16 @@
+Línea 19: la clase Proyecto1.ucMenu del control ucMenu1 no era una clase de control cargada.
+Línea 47: la clase MSComDlg.CommonDialog del control cd no era una clase de control cargada.
+Línea 26: el nombre de la propiedad _ExtentX de ucMenu1 no es válido.
+Línea 27: el nombre de la propiedad _ExtentY de ucMenu1 no es válido.
+Línea 28: el nombre de la propiedad ForeColorNormal de ucMenu1 no es válido.
+Línea 29: el nombre de la propiedad ForeColorDown de ucMenu1 no es válido.
+Línea 30: el nombre de la propiedad ForeColorUp de ucMenu1 no es válido.
+Línea 31: el nombre de la propiedad ForeColorDisabled de ucMenu1 no es válido.
+Línea 32: el nombre de la propiedad ForeColorCheck de ucMenu1 no es válido.
+Línea 33: el nombre de la propiedad UseUnderLineMouseUp de ucMenu1 no es válido.
+Línea 34: el nombre de la propiedad UseUnderLineMouseCheck de ucMenu1 no es válido.
+Línea 35: el nombre de la propiedad Object.ToolTipText de ucMenu1 no es válido.
+Línea 45: el nombre de la propiedad Skin de ucMenu1 no es válido.
+Línea 50: el nombre de la propiedad _ExtentX de cd no es válido.
+Línea 51: el nombre de la propiedad _ExtentY de cd no es válido.
+Línea 52: el nombre de la propiedad _Version de cd no es válido.
